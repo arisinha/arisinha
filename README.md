@@ -9,5 +9,5 @@ I'm a Software Engineering student at Universidad Autónoma de Occidente locatee
 - DB Management Tools: MySQL, PostgreSQL, MongoDB.
 - Flow Control: Git, GitHub
 
-- ## Contact me!
+## Contact me!
 - https://arisinha.github.io/portfolio/#home
