@@ -1,5 +1,13 @@
-- 🔭 Hi! I'm Daytona/thug/arisinha and I'm a Software Engineering student at Universidad Autonoma de Occidente in Culiacán, Mexico. I speak both English and Spanish
-- 🌱 Programming Languages: C#, C++, Python, Java, PHP.
-- 🩻 Frameworks and libraries: ASP.NET, FastAPI, Laravel, Vue.js
-- 📊 Database: MySQL, PostgreSQL, MongoDB.
+# Hi, Daytona here! 👋
 
+## About me
+I'm a Software Engineering student at Universidad Autónoma de Occidente locateed in Culiacán, México. I can speak both English and Spanish and I'll love to become a frontend developer for a living. I'm Currently 21 years old and interested on working in small projects.
+
+## Skills
+- Programming Languages: Python, Java, C++, C#, PHP.
+- Frameworks & Libraries: Vue.js, FastAPI, ASP.NET, Laravel.
+- DB Management Tools: MySQL, PostgreSQL, MongoDB.
+- Flow Control: Git, GitHub
+
+- ##Contact me!
+- https://arisinha.github.io/portfolio/#home
